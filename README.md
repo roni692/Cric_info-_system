@@ -1,3 +1,11 @@
+Cric_info_System
+The Cric_info_System is web application developed for the users. It was implemented in PHp using netbeans.
+
+
+
+
+
+
 Yii 2 Basic Project Template
 ============================
 
